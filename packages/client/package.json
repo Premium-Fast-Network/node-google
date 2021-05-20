@@ -1,0 +1,33 @@
+{
+  "name": "@premiumfastnet/google-client",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "JuniYadi <juniyadi94@gmail.com>",
+  "homepage": "https://github.com/Premium-Fast-Network/node-google#readme",
+  "license": "MIT",
+  "main": "lib/client.js",
+  "types": "lib/client.d.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Premium-Fast-Network/node-google.git"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Premium-Fast-Network/node-google/issues"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
