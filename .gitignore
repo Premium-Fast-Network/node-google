@@ -108,4 +108,3 @@ lerna-debug.log
 .idea
 .vscode
 packages/*/lib
-packages/*/package-lock.json
