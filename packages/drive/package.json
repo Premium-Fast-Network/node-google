@@ -1,6 +1,6 @@
 {
   "name": "@premium-fast-network/google-drive",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "> TODO: description",
   "author": "JuniYadi <juniyadi94@gmail.com>",
   "homepage": "https://github.com/Premium-Fast-Network/node-google#readme",
@@ -26,6 +26,5 @@
   },
   "bugs": {
     "url": "https://github.com/Premium-Fast-Network/node-google/issues"
-  },
-  "dependencies": {}
+  }
 }
