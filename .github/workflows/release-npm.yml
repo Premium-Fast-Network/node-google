@@ -24,6 +24,8 @@ jobs:
         run: npm i -g lerna
       - name: Install Package
         run: npm ci
+      - name: Install Sub-Package
+        run: lerna bootstrap
       - name: Generate Library From Typescripts
         run: lerna run tsc
       - name: Publish Package by Lerna
